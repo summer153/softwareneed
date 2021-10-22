@@ -1,4 +1,2 @@
-git test
-first
-second
+practice
 
